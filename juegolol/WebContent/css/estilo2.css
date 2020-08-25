@@ -1,0 +1,82 @@
+*{box-sizing: border-box; transition: all .3s ease; }
+
+.lista{height: 50px; background-color: RGBA(255,255,0,0.5)}
+
+
+.cuadrog{width: 100%;
+        height: 500px;
+        background-color: black;
+        }
+
+.cont{width: 50%; height: 100%; float: right;}
+
+.datos{width: 50%;
+    height: 100%;float: left;
+    padding: 10px;
+    font-size: 20px;
+    color:yellow;
+    margin-bottom: 30px;
+      }
+
+.datos2{width: 25%;
+    height: 100%;float: left;
+    padding: 10px;
+    font-size: 20px;
+    color:yellow;}
+
+.cuadrog2{width: 50%;
+    height:350px;
+    margin: auto;
+    
+    top:7%;
+    left:3%;
+    position: relative;
+        }
+.blabla{width: 50%;
+    height:350px;
+    margin: auto;
+    color:white;
+    top:7%;
+    left:3%;
+    position: relative;
+        }
+
+.nombres{width:55%;
+        font-size:30px;
+        height:30px;
+        color:yellow;
+        margin-bottom: 10px;
+        }
+.cp{width:80%;
+    height: 60px;
+    margin: 1px;
+    font-size: 20px;
+    color: white;
+    padding: 15px;
+    background-color:red;
+    }
+
+.cp2{width:80%;
+    background-color: grey;
+    height: 60px;
+    margin: 1px;
+    }
+
+.verificar{position:inherit;
+            width: 40%;
+            height: 40px;
+            background-color:dimgray;
+            top:10%;
+            left:20%;
+            padding: 5px;
+            font-size: 30px;
+            text-align: center;
+            color:yellow;
+            }
+
+  #in{width: 350px;height: 50px;font-size:30px; }      
+ #in1{width: 150px;height: 50px;font-size:30px;border-radius:10px;position:absolute;left:20%;top:79%; }  
+  #in2{width: 150px;height: 50px;font-size:30px;border-radius:10px;position:absolute;left:55%;top:70%; }  
+.logo{position: absolute; width: 100px;height: 100px;background-image:url(lc.png);right:10%; background-size: cover;bottom: 10%;}
+ #in3{width: 150px;height: 40px;font-size:30px;border-radius:10px;position:absolute;left:33%;top:39%; }  
+ 
